@@ -1,0 +1,5 @@
+.gitignore
+
+*.ipynb
+Dockerfile
+README.md
